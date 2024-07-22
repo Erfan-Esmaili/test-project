@@ -7,3 +7,7 @@ function name(params) {
 }
 const commit = 'test branch'
 let branch = 'master branch'
+
+let isTrue = ()=>{
+  return false;
+}
