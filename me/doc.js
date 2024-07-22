@@ -3,3 +3,7 @@ let btn = 'select'
 function fun (res){
   console.log('asd');
 }
+
+num.forEach((m)=>{
+  console.log(m)
+           )
