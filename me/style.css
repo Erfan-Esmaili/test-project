@@ -2,3 +2,9 @@
   display: flex;
   justify-content: baseline;
 }
+
+h6{
+  display: block;
+  font-size: 12px;
+  width: 80px;
+}
