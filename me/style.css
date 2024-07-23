@@ -8,3 +8,8 @@ p {
   border-bottom: 12px;
   max-width: 55px;
 }
+
+h2{
+  font-display: inherit;
+  margin-left: auto;
+}
