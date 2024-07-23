@@ -3,8 +3,8 @@
   justify-content: baseline;
 }
 
-h6{
-  display: block;
-  font-size: 12px;
-  width: 80px;
+p {
+  display: grid;
+  border-bottom: 12px;
+  max-width: 55px;
 }
