@@ -13,3 +13,6 @@ h2{
   font-display: inherit;
   margin-left: auto;
 }
+div{
+  margin : 12px;
+}
