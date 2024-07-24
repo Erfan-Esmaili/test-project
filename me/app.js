@@ -11,3 +11,7 @@ let branch = 'master branch'
 let isTrue = ()=>{
   return false;
 }
+
+const plus = ()=>{
+  return false;
+}
